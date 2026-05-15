@@ -1,0 +1,9 @@
+Pon aquí las 3 imágenes de los estadios con estos nombres EXACTOS:
+
+  1. estadio-azteca.jpg   → Estadio Azteca (Ciudad de México)
+  2. estadio-akron.jpg    → Estadio Akron (Guadalajara)
+  3. estadio-bbva.jpg     → Estadio BBVA (Monterrey)
+
+Tamaño recomendado: 1200x800 px, formato .jpg
+
+Cuando agregues tus imágenes, puedes borrar este archivo.
